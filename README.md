@@ -64,3 +64,7 @@ The moves are tottaly random.</br>
 
 </ul>
 </div>
+
+# Requirements
+python3.x
+pygame
